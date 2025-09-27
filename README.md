@@ -1,1 +1,1 @@
-# Documentation of my summer 2025 project 
+# Documentation of summer 2025 project 
