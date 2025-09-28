@@ -11,7 +11,7 @@ The second paper uses resistance tensors to derive dynamical equations describin
 ## My Work
 - **Documents 1–3**: My attempt at re-deriving and explaining the reasoning behind the main equations in the two papers 
 - **Document 4**: Details my method of trying to extend the methodology of the second paper to derive the dynamical equations describing an *n*-arm hinge, instead of just a two-arm one
-- **Document 5**: (current work) Attempt to verify my method by checking whether it can reproduce the equations in the second paper when *n* = 2
+- **Document 5**: (in progress) Attempt to verify my method by checking whether it can reproduce the equations in the second paper when *n* = 2
 
 ## Documentation
 - [Motion of asymmetric bodies in two-dimensional shear flow — derivation processes](docs/Motion_of_asymmetric_bodies_in_two_dimensional_shear_flow___derivation_processes.pdf)
