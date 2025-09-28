@@ -1,5 +1,8 @@
 # Documentation of Summer 2025 Project 
 
+## Disclaimer
+The write-ups I have uploaded onto this webpage are for my own research interests and investigative purposes only, and I will not be publishing them on any official platform.
+
 ## Overview
 So far, I have five documents documenting the work I have done based on two papers:  
 > Roggeveen, J. V., & Stone, H. A. (2022). *Motion of asymmetric bodies in two-dimensional shear flow*.  
