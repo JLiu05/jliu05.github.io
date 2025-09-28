@@ -12,3 +12,10 @@ The second paper uses resistance tensors to derive dynamical equations describin
 - **Documents 1–3**: My attempt at re-deriving and explaining the reasoning behind the main equations in the two papers 
 - **Document 4**: Details my method of trying to extend the methodology of the second paper to derive the dynamical equations describing an *n*-arm hinge, instead of just a two-arm one
 - **Document 5**: (current work) Attempt to verify my method by checking whether it can reproduce the equations in the second paper when *n* = 2
+
+## Documentation
+- [Motion of asymmetric bodies in two-dimensional shear flow — derivation processes](docs/Motion_of_asymmetric_bodies_in_two_dimensional_shear_flow___derivation_processes.pdf)
+- [Drift of elastic hinges in quasi-two-dimensional oscillating shear flows (1)](docs/Drift_of_elastic_hinges_in_quasi_two_dimensional_oscillating_shear_flows__1_.pdf)
+- [Drift of elastic hinges in quasi-two-dimensional oscillating shear flows (2)](docs/Drift_of_elastic_hinges_in_quasi_two_dimensional_oscillating_shear_flows__2_.pdf)
+- [Drift of elastic hinges in quasi-two-dimensional oscillating shear flows (3)](docs/Drift_of_elastic_hinges_in_quasi_two_dimensional_oscillating_shear_flows__3_.pdf)
+- [In Progress: Drift of elastic hinges in quasi-two-dimensional oscillating shear flows (4)](docs/In_Progress_Drift_of_elastic_hinges_in_quasi_two_dimensional_oscillating_shear_flows__4_.pdf)
