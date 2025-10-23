@@ -1,4 +1,4 @@
-# Documentation of Summer 2025 Project 
+# Documentation of 2025 Project (May 2025 - present)
 
 ## Disclaimer
 The write-ups I have uploaded onto this webpage are for my own research interests and investigative purposes only, and I will not be publishing them on any official scholarly platform. Any errors are my own.
