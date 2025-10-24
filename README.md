@@ -27,4 +27,4 @@ The second paper uses resistance tensors to derive dynamical equations describin
 - [Drift of elastic hinges in quasi-two-dimensional oscillating shear flows (1)](docs/Drift_of_elastic_hinges_in_quasi_two_dimensional_oscillating_shear_flows__1_.pdf)
 - [Drift of elastic hinges in quasi-two-dimensional oscillating shear flows (2)](docs/Drift_of_elastic_hinges_in_quasi_two_dimensional_oscillating_shear_flows__2_.pdf)
 - [Drift of elastic hinges in quasi-two-dimensional oscillating shear flows (3)](docs/Drift_of_elastic_hinges_in_quasi_two_dimensional_oscillating_shear_flows__3_.pdf)
-- [In Progress: Drift of elastic hinges in quasi-two-dimensional oscillating shear flows (4)](docs/In_Progress_Drift_of_elastic_hinges_in_quasi_two_dimensional_oscillating_shear_flows__4_.pdf)
+- [In Progress: Drift of elastic hinges in quasi-two-dimensional oscillating shear flows (4)](docs/Drift_of_elastic_hinges_in_quasi_two_dimensional_oscillating_shear_flows__4_.pdf)
