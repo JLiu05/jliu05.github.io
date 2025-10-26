@@ -1,7 +1,7 @@
 # Documentation of 2025 Project (May 2025 - present)
 
 ## Disclaimer
-The write-ups I have uploaded onto this webpage are for my own research interests and investigative purposes only, and I will not be publishing them on any official scholarly platform. Any errors are my own.
+The write-ups I have uploaded onto this webpage are for my own research interests and investigative purposes, and I am not planning on publishing them on any official scholarly platform. Any errors are my own.
 
 ## Overview
 So far, I have five documents documenting the work I have done based on two papers:  
