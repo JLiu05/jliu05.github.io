@@ -1,5 +1,5 @@
 # Documentation of 2025 Project on Particle Dynamics 
-## May 2025 - Present
+## May 2025 - November 2025
 
 ## Disclaimer
 The write-ups I have uploaded onto this webpage are for my own research interests and investigative purposes, and I am not planning on publishing them on any official scholarly platform. Any errors are my own.
